@@ -1,6 +1,4 @@
-
-//修改第二个文件
-
+//C4分支上的修改2
 package GBN;
 
 import java.io.*;
