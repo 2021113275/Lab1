@@ -1,3 +1,6 @@
+
+//修改第二个文件
+
 package GBN;
 
 import java.io.*;
